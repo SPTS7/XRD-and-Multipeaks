@@ -1,6 +1,4 @@
-# README
-
-## Overview
+# Overview
 
 This script is designed for fitting Lorentzian models to magnetic resonance data, particularly for analyzing the magnetic properties of materials. It processes data, fits models to the peaks of the magnetic resonance spectra, and applies different anisotropy models such as In-Plane (IP), Out-of-Plane (OP), and Ultrathin110 (U110). The script calculates key magnetic parameters like the Gilbert damping factor and the material's saturation magnetization.
 
